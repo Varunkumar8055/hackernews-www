@@ -20,7 +20,7 @@
     "@tanstack/react-form": "^1.11.1",
     "@tanstack/react-query": "^5.75.5",
     "axios": "^1.8.4",
-    "better-auth": "^1.2.7",
+    "better-auth": "^1.2.8",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "hackernews-www": "file:",
